@@ -26,9 +26,6 @@ After installation, clear the modifier cache:
 
 ### Project folders
 
-- [readme]()   Full description on English, Russian and Ukrainian languge.
-- [ocmod]()    Extension for installation on OpenCart
-- [testing]()  Archive with a test page for checking the work of the extension. 
-
-
-
+- [ocmod](https://github.com/nva1773/API-Order-Notify-OCMOD/tree/main/ocmod) - Extension for installation on OpenCart.
+- [readme](https://github.com/nva1773/API-Order-Notify-OCMOD/tree/main/readme) - Full description on English, Russian and Ukrainian languge.
+- [testing](https://github.com/nva1773/API-Order-Notify-OCMOD/tree/main/testing) - Archive with a test page for checking the work of the extension. 
