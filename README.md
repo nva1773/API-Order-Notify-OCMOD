@@ -10,10 +10,10 @@ It is also possible to enter the IP address of users who are allowed access to t
 - Support is provided by the latest languages: English, Russian, Ukrainian,
 - OpenCart 3.0 / ocStore 3.0
 - Activation method: Without activation
-- Ioncube Loader: -
-- Zvernennya to the server of the retailer: -
-- The retailer server is unavailable: The extension is working
-- Lots of templates: *
+- Ioncube Loader: no
+- Contacting the developer server: no
+- If the developer's server is unavailable: the extenstion is working
+- Compatible with templates: *
 
 ### Installation
 
