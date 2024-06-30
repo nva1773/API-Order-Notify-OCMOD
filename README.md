@@ -1,6 +1,6 @@
 ## Extension for API requests about new orders in your internet-store.
 
-The modifier adds the ability to make "GET" requests through the API to receive new, unprocessed orders.
+The extension adds the ability to make "GET" requests through the API to receive new, unprocessed orders.
 I.e. orders that have the Status "Pending" or "Processing".
 It is also possible to enter the IP address of users who are allowed access to the API in the form of a mask using "*".
 
